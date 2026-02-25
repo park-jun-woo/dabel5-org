@@ -80,4 +80,4 @@ hugo --minify           # 프로덕션 빌드 → public/
 
 ## 저자
 
-[박준우](https://parkjunwoo.com)
+[박준우](https://parkjunwoo.com/1/about)

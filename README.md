@@ -80,4 +80,4 @@ hugo --minify           # Production build → public/
 
 ## Author
 
-[Park Jun Woo](https://parkjunwoo.com)
+[Park Jun Woo](https://parkjunwoo.com/1/about)
